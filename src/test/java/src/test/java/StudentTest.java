@@ -1,4 +1,10 @@
+package src.test.java;
+
 import org.junit.jupiter.api.Test;
+
+import src.main.java.Person;
+import src.main.java.Student;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.*;

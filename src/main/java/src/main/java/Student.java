@@ -1,3 +1,5 @@
+package src.main.java;
+
 public class Student extends Person {
     private double gpa;
 
